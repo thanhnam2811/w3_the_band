@@ -1,0 +1,16 @@
+--- PHÂN TÍCH ---
+
+1. Header
+2. Slider
+3. Content:
+    1. About
+    2. Tour
+    3. Contact
+    4. Image
+4. Footer
+
+--- DỰNG BASE ---
+
+--- XÂY DỰNG CÁC THÀNH PHẦN THEO PHÂN TÍCH ---
+
+--- HOÀN THIỆN ---
